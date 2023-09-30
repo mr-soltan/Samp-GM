@@ -1,0 +1,12 @@
+(+) New spawn points in full san andreas.
+(+) New discord channel and categories added.
+(+) New admin level 7 with all rcon cmds.
+(+) New Textdraw with Fonts.
+(+) Toy system fixed.
+(+) Added /suggestion And /bug command.
+(*) Discord bot.
+(*) Bugs.
+(/) /c has been changed to /head.
+(/) Shops Prices Increased / Decreased.
+(-) Old Links.
+(-) /help command permanently.

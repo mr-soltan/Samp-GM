@@ -1,0 +1,19 @@
+(+) New Discord Bot System
+(+) New Commands
+(+) /feedback | /suggestion | /bug system
+(+) Few Stores
+(+) New Store TextDraw
+(+) New Font Style
+(*) Bot System
+(*) Dialogs & Textdraws
+(*) Wanted Level
+(*) Commands And Functions
+(*) Store Bugs
+(/) TextDraw Format 
+(/) Many commands
+(/) Shop Icons
+(/) Colors Of Admins
+(-) Old Bugs
+(-) Old Discord Bot System
+(-) UseLess Codes.
+(-) Useless Commands.

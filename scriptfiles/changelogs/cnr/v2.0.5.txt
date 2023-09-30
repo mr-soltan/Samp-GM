@@ -1,0 +1,12 @@
+(+) New Discord Bot
+(+) New Song when death or experience level up.
+(+) New Textdraw
+(+) New Stores in Empty Location.(Bayside)
+(/) Old Mysql To New
+(/) Playing Music System
+(*) Old Mysql (all stats reset)
+(*) Veh. Spawn
+(*) Shops Robbery Bug
+(-) All Houses
+(-) Old Mysql Files
+(-) All Player Stats

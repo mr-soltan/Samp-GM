@@ -1,0 +1,13 @@
+(+) Cloudy's advanced event system has been added.
+(+) Night's discord implementation has been added.
+(+) Added New Scripting Features.
+(+) Added weed system.
+(+) Added new map icons into script.
+(+) Textdraw edited with CP
+(+) Maximum Bugs Fixed
+(/) Players will lose only 5% of their stock if it drops 80% in a day.
+(/) Robbery Increased By Few %
+(/) Full reversion of the turf war system to how it was pre-hardpoint.
+(/) You need Bronze V.I.P to send Irresistible Coins.
+(-) Removed all old bugs.
+(-) Removed Old Vehicle Dealership
